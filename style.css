@@ -1,0 +1,35 @@
+.carousel-item {
+    align-items:center;
+    width: 1349px;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 45px;
+    height: 45px;
+    color: black;
+    background-color: rgb(250, 174, 34);
+}
+
+.welcome {
+    background-image: url(gambar/bg.png);
+}
+
+.service {
+    background-image: url(gambar/bg2.png);
+}
+
+.portofolio {
+    background-image: url(gambar/bg3.png);
+}
+
+.about {
+    background-image: url(gambar/bg2.png);
+    align-items: center;
+}
+
+.contact {
+    background-image: url(gambar/bg1.png);
+    align-items: center;
+}
